@@ -2,6 +2,8 @@
 
 分享高质量的博客
 
+https://github.com/DanceSmile/DanceSmile.github.io/issues/6
+
 利益相关   简寻，专注于高端程序员招聘。简寻-你值得拥有更优质的offer
 
 我司最近盘点了，在国内国外非常有名的一些程序员，哈哈~欢迎大家补充ಠ౪ಠ 
